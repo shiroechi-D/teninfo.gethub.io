@@ -1,0 +1,64 @@
+body
+{
+    padding: 5px;
+    margin: 0px;
+    background-color: aliceblue;
+    min-width: 435px;
+}
+.text
+{
+    font-size: larger;
+    min-width: 435px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+img
+{
+min-width: 435px ;
+padding: 5px;
+width: 435px;
+}
+.con
+{
+    min-width: 435px;
+   font-size: x-large;
+   font-family: 'Nunito', sans-serif;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+.m
+{
+    font-size: x-large;
+}
+.v
+{
+   float: left;
+}
+.header
+{
+    font-family: 'Turret Road', cursive;
+    font-size: 30px;
+    color: navy;
+}
+p
+{
+    min-width: 435px;
+    font-size: x-large;
+     font-family: Helvetica, Arial, sans-serif;
+}
+.conta
+{
+    min-width: 435px;
+    font-size: x-large;
+     font-family: Helvetica, Arial, sans-serif;
+}
+.fo
+{
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  background-color: #D7ECFF;
+  background-repeat: repeat;
+  min-width: 485px;
+ 
+}
